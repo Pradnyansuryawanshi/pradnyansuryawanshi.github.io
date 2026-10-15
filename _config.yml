@@ -12,7 +12,7 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Pradnyan Suryawanshi"
 title_separator          : "-"
 name                     : &name "Pradnyan Suryawanshi"
-description              : &description "Class 12th Student, Preparing for NEET | USMLE Aspirant"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Y1 at K J Somaiya medical college , CPR Instructor | USMLE Aspirant"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://pradnyansuryawanshi.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
